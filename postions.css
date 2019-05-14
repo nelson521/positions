@@ -1,4 +1,4 @@
-*{
+.main{
   font-family: 'Courier New', Courier, monospace;
   width: 85%;
   margin: auto;
@@ -26,6 +26,7 @@
   width: 200px;
   position: absolute;
   top: 80px;
-  left: 780px;
+  right: 0;
+  margin-right: -35px;
 }
 
