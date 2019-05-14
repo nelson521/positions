@@ -1,0 +1,31 @@
+*{
+  font-family: 'Courier New', Courier, monospace;
+  width: 85%;
+  margin: auto;
+}
+
+.fixed{
+  background-color: aqua;
+  height: 100px;
+  width: 100px;
+  position: fixed;
+}
+
+.relative{
+  background-color: #ffdd40;
+  height: 180px;
+  width: 85%;
+  position: relative;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.absolute{
+  background-color: #6a9de9;
+  height: 100px;
+  width: 200px;
+  position: absolute;
+  top: 80px;
+  left: 780px;
+}
+
